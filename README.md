@@ -102,3 +102,7 @@ svg for obsidian ![[box 1.svg]]
 svg fo github ![title for box](./box.svg)
 video for obsidian ![[Screen Recording 2022-01-02 at 8.11.53 AM.mov]]
 ![video for markdown](Screen Recording 2022-01-02 at 8.11.53 AM.mov])
+
+videonospace obsidian ![[videonospaces.mov]]
+![videnospaces markdown](videonospaces.mov)
+<video src="videonospaces.mov" "no spaces"/>
