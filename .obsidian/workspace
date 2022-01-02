@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "3922b4ec11570b06",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Theorem Provers, Correctness, Etc..md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"

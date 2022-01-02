@@ -96,3 +96,7 @@ phrase (history)
 [[Return]]
 [[CPS (Continuation Passing Style)]]
 [[Theorem Provers, Correctness, Etc.]]
+
+# Experiment
+svg for obsidian ![[box 1.svg]]
+svg fo github ![title for box](./box.svg)
