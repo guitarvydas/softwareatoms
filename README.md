@@ -122,3 +122,4 @@ wait for signal (primitive?)
 
 [[concurency and parallelism are not the same things]]
 [[FP pure functions are state machines]]
+[[FP Advantage]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0995927729e2867e",
+        "id": "ed95714782f54cfa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FP pure functions are state machines.md",
+            "file": "FP Advantage.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FP pure functions are state machines.md",
+                "file": "FP Advantage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0995927729e2867e",
+  "active": "ed95714782f54cfa",
   "lastOpenFiles": [
-    "FP pure functions are state machines.md",
+    "FP Advantage.md",
     "README.md",
     "Return.md",
+    "Duct Tube Channel Pipe.md",
+    "FP pure functions are state machines.md",
     "concurency and parallelism are not the same things.md",
     "Untitled.md",
     "Theorem Provers, Correctness, Etc..md",
