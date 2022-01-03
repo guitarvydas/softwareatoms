@@ -106,3 +106,19 @@ video for obsidian ![[Screen Recording 2022-01-02 at 8.11.53 AM.mov]]
 videonospace obsidian ![[videonospaces.mov]]
 ![videnospaces markdown](videonospaces.mov)
 <video src="videonospaces.mov" "no spaces"/>
+xe - eXecutable element - can have energy applied to them ; spark of life (e.g. bacteria, function with no args nor state)
+datum - information - adding energy does nothing (e.g. rock, number))
+bag
+
+function = state machine (records return address) ; internal datum ret addr ; on resumption determines state by examining datum (ret addr)
+
+
+block
+resume
+yield
+finish
+send signal
+wait for signal (primitive?)
+
+[[concurency and parallelism are not the same things]]
+[[FP pure functions are state machines]]

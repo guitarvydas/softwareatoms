@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "FP pure functions are state machines.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "FP pure functions are state machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,13 @@
   },
   "active": "0995927729e2867e",
   "lastOpenFiles": [
+    "FP pure functions are state machines.md",
     "README.md",
+    "Return.md",
+    "concurency and parallelism are not the same things.md",
+    "Untitled.md",
     "Theorem Provers, Correctness, Etc..md",
     "CPS (Continuation Passing Style).md",
-    "Call.md",
-    "Return.md"
+    "Call.md"
   ]
 }
