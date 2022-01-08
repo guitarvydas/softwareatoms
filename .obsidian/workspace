@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed95714782f54cfa",
+        "id": "2a59d6cd769f90c1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FP Advantage.md",
+            "file": "Using Existing Languages as Assembler for New Languages.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FP Advantage.md",
+                "file": "Using Existing Languages as Assembler for New Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed95714782f54cfa",
+  "active": "2a59d6cd769f90c1",
   "lastOpenFiles": [
-    "FP Advantage.md",
+    "Using Existing Languages as Assembler for New Languages.md",
+    "Spaghetti Multitasking.md",
+    "Call Return is a State Machine.md",
+    "xe.md",
+    "Untitled 1.md",
+    "ducts.md",
     "README.md",
+    "FP Advantage.md",
     "Return.md",
-    "Duct Tube Channel Pipe.md",
-    "FP pure functions are state machines.md",
-    "concurency and parallelism are not the same things.md",
-    "Untitled.md",
-    "Theorem Provers, Correctness, Etc..md",
-    "CPS (Continuation Passing Style).md",
-    "Call.md"
+    "Duct Tube Channel Pipe.md"
   ]
 }
